@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="175" tvg-name="Aastha" tvg-type="Devotional" group-title="AM36" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png",Aastha
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/chunklist_b1328000.m3u8
+
+#EXTINF: -1 tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/1566764sanskar.png" group-title="AM36", Sanskar HD
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index_12.m3u8
+
+#EXTINF:-1 tvg-id="MHOneShraddha.in" tvg-logo="https://i.imgur.com/Lrm8qTO.png" group-title="AM36",MH One Shraddha (1080p)
+https://mhlive.paramountinfosystem.com/mhoneshraddhatest/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="colorshd.in" tvg-name="D2H COLORS TV FHD" tvg-logo="http://b1g.fun/logos2/colorshd.jpg" group-title="AM36",D2H COLORS TV FHD
+http://apnaiptv.asia:80/123677/123677/161849
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="colorshd.in" tvg-name="TS COLORS FHD" tvg-logo="http://b1g.fun/logos2/colorshd.jpg" group-title="AM36",TS COLORS FHD
+http://apnaiptv.asia:80/123677/123677/7931
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="colorshd.in" tvg-name="VT COLORS FHD" tvg-logo="http://b1g.fun/logos2/colorshd.jpg" group-title="AM36",VT COLORS FHD
+http://apnaiptv.asia:80/123677/123677/235948
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyhd.in" tvg-name="D2H SONY TV FHD" tvg-logo="http://b1g.fun/logos2/sony_tvhd.jpg" group-title="AM36",D2H SONY TV FHD
+http://apnaiptv.asia:80/123677/123677/161925
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyhd.in" tvg-name="TS SONY TV HD" tvg-logo="http://b1g.fun/logos2/sony_tvhd.jpg" group-title="AM36",TS SONY TV HD
+http://apnaiptv.asia:80/123677/123677/7935
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonymaxhd.in" tvg-name="D2H SONY MAX FHD" tvg-logo="http://b1g.fun/logos2/sony_maxhd.jpg" group-title="AM36",D2H SONY MAX FHD
+http://apnaiptv.asia:80/123677/123677/161918
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonymaxhd.in" tvg-name="TS SONY MAX FHD" tvg-logo="http://b1g.fun/logos2/sony_maxhd.jpg" group-title="AM36",TS SONY MAX FHD
+http://apnaiptv.asia:80/123677/123677/7951
+
+#EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="AM36",Aaj Tak
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+
+#EXTINF:-1 tvg-id="ZeeNews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png" group-title="AM36",Zee News (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCIvaYmXn910QMdemBG3v1pQ.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonysabhd.in" tvg-name="D2H SONY SAB FHD" tvg-logo="http://b1g.fun/logos2/sony_sabhd.jpg" group-title="AM36",D2H SONY SAB FHD
+http://apnaiptv.asia:80/123677/123677/161920
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonysabhd.in" tvg-name="TS SONY SAB FHD" tvg-logo="http://b1g.fun/logos2/sony_sabhd.jpg" group-title="AM36",TS SONY SAB FHD
+http://apnaiptv.asia:80/123677/123677/7884
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sanskartv.in" tvg-name="IN-FD | Sanskar TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sanskar.png" group-title="AM36",IN-FD | Sanskar TV
+http://apnaiptv.asia:80/123677/123677/417595
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sanskartv.in" tvg-name="TS SANSKAR TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sanskar.png" group-title="AM36",TS SANSKAR TV
+http://apnaiptv.asia:80/123677/123677/163713
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sadhanatv.in" tvg-name="TS SADHNA TV DEVOTIONAL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sadhna-TV-Deviotional.png" group-title="AM36",TS SADHNA TV DEVOTIONAL
+http://apnaiptv.asia:80/123677/123677/163714
