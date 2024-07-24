@@ -49,3 +49,8 @@ http://apnaiptv.asia:80/123677/123677/163713
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sadhanatv.in" tvg-name="TS SADHNA TV DEVOTIONAL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sadhna-TV-Deviotional.png" group-title="AM36",TS SADHNA TV DEVOTIONAL
 http://apnaiptv.asia:80/123677/123677/163714
+
+#EXTINF:-1 tvg-id="ts48" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="AM36",SONY SAB HD 
+https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+
+
