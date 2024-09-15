@@ -39,16 +39,18 @@ https://ythls.armelin.one/channel/UCIvaYmXn910QMdemBG3v1pQ.m3u8
 http://apnaiptv.asia:80/123677/123677/161920
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonysabhd.in" tvg-name="TS SONY SAB FHD" tvg-logo="http://b1g.fun/logos2/sony_sabhd.jpg" group-title="AM36",TS SONY SAB FHD
-http://apnaiptv.asia:80/123677/123677/7884
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sanskartv.in" tvg-name="IN-FD | Sanskar TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sanskar.png" group-title="AM36",IN-FD | Sanskar TV
 http://apnaiptv.asia:80/123677/123677/417595
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sanskartv.in" tvg-name="TS SANSKAR TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sanskar.png" group-title="AM36",TS SANSKAR TV
-http://apnaiptv.asia:80/123677/123677/163713
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sadhanatv.in" tvg-name="TS SADHNA TV DEVOTIONAL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sadhna-TV-Deviotional.png" group-title="AM36",TS SADHNA TV DEVOTIONAL
-http://apnaiptv.asia:80/123677/123677/163714
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="ts48" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="AM36",SONY SAB HD 
 https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
