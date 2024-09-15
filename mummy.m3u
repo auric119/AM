@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="175" tvg-name="Aastha" tvg-type="Devotional" group-title="AM36" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png",Aastha
-https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/chunklist_b1328000.m3u8
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/master.m3u8
 
 #EXTINF: -1 tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/1566764sanskar.png" group-title="AM36", Sanskar HD
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index_12.m3u8
