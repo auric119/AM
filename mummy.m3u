@@ -55,4 +55,5 @@ https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m
 #EXTINF:-1 tvg-id="ts48" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="AM36",SONY SAB HD 
 https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 
-
+#EXTINF:-1 tvg-id="ts48" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="AM36",TEN SONY SAB HD 
+https://dish.slivcdn.com/hls/live/2020591-b/TEN3HD/master_3500.m3u8
