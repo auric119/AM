@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="175" tvg-name="Aastha" tvg-type="Devotional" group-title="AM36" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png",Aastha
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/master.m3u8
+
+#EXTINF: -1 tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/1566764sanskar.png" group-title="AM36", Sanskar HD
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index_12.m3u8
+
+#EXTINF:-1 tvg-id="MHOneShraddha.in" tvg-logo="https://i.imgur.com/Lrm8qTO.png" group-title="AM36",MH One Shraddha (1080p)
+https://mhlive.paramountinfosystem.com/mhoneshraddhatest/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="AM36",Aaj Tak
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+
+#EXTINF:-1 tvg-id="ZeeNews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png" group-title="AM36",Zee News (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCIvaYmXn910QMdemBG3v1pQ.m3u8
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sanskartv.in" tvg-name="IN-FD | Sanskar TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sanskar.png" group-title="AM36",IN-FD | Sanskar TV
+http://apnaiptv.asia:80/123677/123677/417595
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sanskartv.in" tvg-name="TS SANSKAR TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sanskar.png" group-title="AM36",TS SANSKAR TV
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sadhanatv.in" tvg-name="TS SADHNA TV DEVOTIONAL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sadhna-TV-Deviotional.png" group-title="AM36",TS SADHNA TV DEVOTIONAL
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="ts48" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="AM36",SONY SAB HD 
+https://dish.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
+
+#EXTINF:-18 tvg-id="18", tvg-logo="https://medianet.mv/media/channel/178x0-icon.png", tvg-language="Hindi", group-title="Sports", SONY SPORTS 1 HD
+https://dish.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+#EXTINF:-19 tvg-id="19", tvg-logo="https://medianet.mv/media/channel/187x0-icon.png", tvg-language="Hindi", group-title="Sports", SONY SPORTS 2 HD
+https://dish.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+#EXTINF:-20 tvg-id="20", tvg-logo="https://the-media-ant.mo.cloudinary.net/medias/569ccce68ead0e21236eb474/1693896680432/star%20sports%20ten%203%20hd_logo.svg?tx=w_350", tvg-language="Hindi", group-title="Sports", SONY SPORTS 3 HD
+https://dish.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+#EXTINF:-21 tvg-id="21", tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png", tvg-language="Hindi", group-title="Sports", SONY SPORTS 4 HD
+https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+#EXTINF:-8 tvg-id="08", tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png", tvg-language="Hindi", group-title="Movies", SONY MAX HD
+https://dish.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+#EXTINF:-1 tvg-id="01", tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png", tvg-language="Hindi", group-title="Entertainment", SONY TELEVISION HD
+https://dish.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
+#EXTINF:-2 tvg-id="02", tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png", tvg-language="Hindi", group-title="Entertainment", SONY SAB HD
+https://dish.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
+
