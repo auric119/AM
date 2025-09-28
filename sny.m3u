@@ -43,3 +43,54 @@ https://dish.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTINF:-2 tvg-id="02", tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png", tvg-language="Hindi", group-title="Entertainment", SONY SAB HD
 https://dish.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/67fH9LwL/asia-cup-1754990931372.jpg" group-title="Asia Cup 2025" group-logo="https://i.ibb.co/67fH9LwL/asia-cup-1754990931372.jpg",S-LIV HIN India Only
+https://dai.google.com/ssai/event/WuMNGfdPRoW2_F3QZUXNRw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/67fH9LwL/asia-cup-1754990931372.jpg" group-title="Asia Cup 2025" group-logo="https://i.ibb.co/67fH9LwL/asia-cup-1754990931372.jpg",S-LIV ENG India Only
+https://dai.google.com/ssai/event/noB3YwyRQVm5K-y_47MrBA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/67fH9LwL/asia-cup-1754990931372.jpg" group-title="Asia Cup 2025" group-logo="https://i.ibb.co/67fH9LwL/asia-cup-1754990931372.jpg",S-LIV TAM India Only
+https://dai.google.com/ssai/event/RP1mckhwQQChze2hZfnZlA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/67fH9LwL/asia-cup-1754990931372.jpg" group-title="Asia Cup 2025" group-logo="https://i.ibb.co/67fH9LwL/asia-cup-1754990931372.jpg",S-LIV TEL India Only
+https://dai.google.com/ssai/event/PR8hSCFZSoyFMghP4RjH5A/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/67fH9LwL/asia-cup-1754990931372.jpg" group-title="Asia Cup 2025" group-logo="https://i.ibb.co/67fH9LwL/asia-cup-1754990931372.jpg",Criflife 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/67fH9LwL/asia-cup-1754990931372.jpg" group-title="Asia Cup 2025" group-logo="https://i.ibb.co/67fH9LwL/asia-cup-1754990931372.jpg",Criflife Max
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad59b720bd4b44d063686212b99484b5:e1744990edf98acc729c0773a3766583
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLifeMax/DASH/CricLifeMax.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/67fH9LwL/asia-cup-1754990931372.jpg" group-title="Asia Cup 2025" group-logo="https://i.ibb.co/67fH9LwL/asia-cup-1754990931372.jpg",TNT 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5deb190b1dac28e46c0bdada7668b7de:ddd2b372702e42b0d2708a70b91dec8d
+http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/rdznpzcmct/out/v1/355324ed98a94cbebbaff4bad0cd28ce/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/67fH9LwL/asia-cup-1754990931372.jpg" group-title="Asia Cup 2025" group-logo="https://i.ibb.co/67fH9LwL/asia-cup-1754990931372.jpg",TNT 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d9efa8287a52a2497a281f7a9012211:e4f832d372943014fe5c30928a90e547
+http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/67fH9LwL/asia-cup-1754990931372.jpg" group-title="Asia Cup 2025" group-logo="https://i.ibb.co/67fH9LwL/asia-cup-1754990931372.jpg",TNT 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=08efc7fb107981608f7b64db5ea62469:3a6844bc9f0d9d9fd962639d7e4eb76a
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/67fH9LwL/asia-cup-1754990931372.jpg" group-title="Asia Cup 2025" group-logo="https://i.ibb.co/67fH9LwL/asia-cup-1754990931372.jpg",TNT 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ccdccf0818d3d9ff6c26076fc1153ac:f8d7fda7e3f11a29b346a37e98f749d4
+http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/67fH9LwL/asia-cup-1754990931372.jpg" group-title="Asia Cup 2025" group-logo="https://i.ibb.co/67fH9LwL/asia-cup-1754990931372.jpg",Willo Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/67fH9LwL/asia-cup-1754990931372.jpg" group-title="Asia Cup 2025" group-logo="https://i.ibb.co/67fH9LwL/asia-cup-1754990931372.jpg",Willo Cricbuzz
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31f91da574d667855834640e323f647d:044dbc740ad84f6069277a6cabd76adf
+https://a168aivottlinear-a.akamaihd.net/IAD/lhr-nitro/clients/dash/enc/llriqg36oy/out/v1/d5d0b76a4cab4567888ffea90cc42a2c/cenc.mpd
